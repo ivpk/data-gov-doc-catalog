@@ -1,0 +1,14 @@
+# Sphinx build artifacts
+/docs/**/_build/
+/docs/.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
